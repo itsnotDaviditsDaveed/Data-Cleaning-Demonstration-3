@@ -1,0 +1,16 @@
+Order_ID,Customer Name,Email,Age,Gender,Order Date,Product,Price ($),Quantity,Country,Status
+1001,john doe,johndoe@gmail.com,23,M,2024-1-5,headphones,49.99,2,usa,delivered
+1002,Jane Smith,janesmith@GMAIL.com,,Female,01/06/2024,HeadPhones,49.99,1,USA,Delivered
+1003,Mike Brown,mike.brown@yahoo.com,34,male,2024/01/07,Bluetooth Speaker,79.9,1,U.S.A,shipped
+1004,Sarah Lee,sarahlee@gmail,28,F,7-1-2024,bluetooth speaker,79.9,1,Canada,Shipped
+1005,Chris Johnson,chrisj@gmail.com,-1,Male,2024-01-08,Smart Watch,129.99,1,USA,Pending
+1006,John Doe,johndoe@gmail.com,23,M,2024-01-05,Headphones,49.99,2,usa,delivered
+1007,Emily Davis,emilydavis@gmail.com,45,Female,2024-13-01,Smart watch,129.99,1,Uk,delivered
+1008,Robert King,robertking@yahoo.com,39,MALE,2024-01-10,Laptop Sleeve,25,3,USA,DELIVERED
+1009,Ana Gómez,anagomez@gmail.com,31,Female,10-01-2024,laptop sleeve,25,two,México,Delivered
+1010,Tom O’Neil,tomoneil@gmail.com,thirty,M,2024-01-11,Mouse,15.99,1,USA,Cancelled
+1011,Lisa Wong,lisa.wong@gmail.com,27,F,2024-01-12,Mouse,15.99,1,USA,cancelled
+1012,,unknown@email.com,52,Female,2024-01-12,Keyboard,45.5,1,USA,Delivered
+1013,David Miller,davidmiller@gmail.com,19,M,01-12-24,Keyboard,$45.50,1,USA,Delivered
+1014,Kevin White,kevinwhite@gmail.com,60,Male,2024-01-14,Monitor,199.99,1,US,Shipped
+1015,kevin white,kevinwhite@gmail.com,60,male,2024-01-14,Monitor,199.99,1,US,shipped
